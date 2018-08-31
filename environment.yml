@@ -109,5 +109,3 @@ dependencies:
   - numpy=1.13.3=py36ha320f96_0
   - vc=14.1=h21ff451_3
   - vs2015_runtime=15.5.2=3
-prefix: C:\Users\sanchez\AppData\Local\Continuum\anaconda3\envs\pandas_wkshp2
-
